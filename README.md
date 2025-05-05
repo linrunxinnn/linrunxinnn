@@ -48,13 +48,13 @@ Here are some ideas to get you started:
   <a href="https://你的博客网址" target="_blank">
     <img src="https://img.shields.io/badge/-博客-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="博客" />
   </a>
-  <a href="https://t.me/你的Telegram用户名" target="_blank">
+  <a href="https://t.me/linrunxinnn" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="http://wpa.qq.com/msgrd?v=3&uin=你的QQ号&site=qq&menu=yes" target="_blank">
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=1689785565@qq.com&site=qq&menu=yes" target="_blank">
     <img src="https://img.shields.io/badge/-QQ-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ" />
   </a>
-  <a href="mailto:你的邮箱地址" target="_blank">
+  <a href="mailto:1689785565@qq.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱" />
   </a>
 </div>
