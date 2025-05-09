@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ## 📫 联系我
 
 <div align="center">
-  <a href="https://你的博客网址" target="_blank">
+  <a href="https://www.linrunxinnn.cn/" target="_blank">
     <img src="https://img.shields.io/badge/-博客-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="博客" />
   </a>
   <a href="https://t.me/linrunxinnn" target="_blank">
